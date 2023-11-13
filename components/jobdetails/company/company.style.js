@@ -46,15 +46,15 @@ const styles = StyleSheet.create({
     alignItems: "center",
   },
   locationImage: {
-    width: 14,
-    height: 14,
+    width: 15,
+    height: 15,
     tintColor: COLORS.gray,
   },
   locationName: {
     fontSize: SIZES.medium - 2,
     color: COLORS.gray,
     fontFamily: FONT.regular,
-    marginLeft: 2,
+    marginLeft: 3,
   },
 });
 
