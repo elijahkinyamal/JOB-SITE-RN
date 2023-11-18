@@ -25,10 +25,10 @@ const styles = StyleSheet.create({
   },
   pointDot: {
     width: 6,
-    height: 6,
-    borderRadius: 6,
+    height: 7,
+    borderRadius: 7,
     backgroundColor: COLORS.gray2,
-    marginTop: 6,
+    marginTop: 7,
   },
   pointText: {
     fontSize: SIZES.medium - 2,
