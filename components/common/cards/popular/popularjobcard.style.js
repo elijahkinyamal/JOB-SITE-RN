@@ -21,8 +21,8 @@ const styles = StyleSheet.create({
     alignItems: "center",
   }),
   logoImage: {
-    width: "71%",
-    height: "70%",
+    width: "70%",
+    height: "73%",
   },
   companyName: {
     fontSize: SIZES.medium,
@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
     color: selectedJob === item.job_id ? COLORS.white : COLORS.primary,
   }),
   location: {
-    fontSize: SIZES.medium - 3,
+    fontSize: SIZES.medium - 4,
     fontFamily: FONT.regular,
     color: "#B3AEC6",
   },
